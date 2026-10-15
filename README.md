@@ -1,4 +1,5 @@
 <html lang="en">
+<meta name="google-site-verification" content="hh_wNV0fMBgIIDz5YjPSYUZCvPhVsSaUcI5VvJ7hcww" />
 <body>
 <main>
   <h1>Private application</h1>
